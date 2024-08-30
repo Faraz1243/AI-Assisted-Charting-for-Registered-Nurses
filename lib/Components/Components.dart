@@ -1,0 +1,14 @@
+export './HomePage.dart';
+export './PatientsPage.dart';
+export './SettingsPage.dart';
+export './PatientTile.dart';
+export './SignIn.dart';
+export './SignUp.dart';
+export './Authentication.dart';
+export './AddPatient.dart';
+export './AddEvent.dart';
+export './PatientProfile.dart';
+export './TextReport.dart';
+export './Table.dart';
+export './Wellcome.dart';
+export './Animation.dart';
