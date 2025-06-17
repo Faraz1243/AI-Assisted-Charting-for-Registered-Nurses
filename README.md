@@ -11,3 +11,6 @@ Frontend:              Flutter
 Sound Recognition:     OpneAI's Whisper Model
 
 Report Generation:     GPT-4
+
+## Demo Video
+https://www.linkedin.com/posts/m-faraz-ali_healthcareinnovation-aiinhealthcare-genai-activity-7236935243889340416-fNZM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0OLHABbJ4tO_83vCd-oPy1eIyHMUoyKZc
