@@ -7,5 +7,7 @@ This project was made in collaboration with Practicing Nurses from University of
 
 ## Technology Used
 Frontend:              Flutter
+
 Sound Recognition:     OpneAI's Whisper Model
+
 Report Generation:     GPT-4
